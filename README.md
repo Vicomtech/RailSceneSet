@@ -12,6 +12,12 @@ As a user of this dataset, it is your responsibility to comply with the terms sp
 
 The RailSceneSet dataset was generated employing the CARLA Simulator, on Unreal Engine 4. The dataset was generated as part of the work presented in the paper "Scenario-Based Validation of Automated Train Systems Using a 3D Virtual Railway Environment". The paper is to be published in the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023).
 
+# Citation
+
+If you use the RailSceneSet dataset in your research, publications, or academic work, please cite the following paper:
+
+> J. A. I. de Gordoa et al., "Scenario-Based Validation of Automated Train Systems Using a 3D Virtual Railway Environment," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5072-5077, doi: 10.1109/ITSC57777.2023.10421931.
+
 
 # Contact
 
