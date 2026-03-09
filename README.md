@@ -41,3 +41,11 @@ The RGB images semantic segmentation masks of each scenario can be downloaded in
 
 The ASAM OpenLABEL files for each scenario can be downloaded here:  
 [OpenLABEL files](https://datasets.vicomtech.org/di21-railsceneset/scenario_annotations.zip)
+
+The sequence containing ego odometry information (apart from RGB and semantic segmentation images) can be downloaded in the following links:
+[railsceneset_v2.zip.001](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_2.zip.001)
+[railsceneset_v2.zip.002](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_2.zip.002)
+[railsceneset_v2.zip.003](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_2.zip.003)
+[railsceneset_v2.zip.004](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_2.zip.004)
+[railsceneset_v2.zip.005](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_2.zip.005)
+[railsceneset_v2_annotations](https://datasets.vicomtech.org/di21-railsceneset/railsceneset_v2_annotation.zip)
